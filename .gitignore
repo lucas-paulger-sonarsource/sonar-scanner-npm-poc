@@ -1,0 +1,6 @@
+*.tar.gz
+
+node_modules
+.idea
+downloads
+.DS_Store
